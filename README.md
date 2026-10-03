@@ -1,1 +1,26 @@
-Last updated: 2026-10-04 01:28:43 WIB
+# -ModernRestaurantPOS
+
+
+
+## 📋 Overview
+
+This repository contains **7 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-10-04 01:50:40 WIB*
